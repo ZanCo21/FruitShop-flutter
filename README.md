@@ -1,5 +1,4 @@
 Its build-in Flutter Dart.
 
-
-![Image](fruit_app_flutter/assets/images/readmeimg/mobile.png)
-![Image](ruit_app_flutter/assets/images/readmeimg/mobile1.png)
+<p><img align="center" src="assets/images/readmeimg/mobile.png" alt="zanco21" /></p>
+<p><img align="center" src="assets/images/readmeimg/mobile1.png" alt="zanco21" /></p>
